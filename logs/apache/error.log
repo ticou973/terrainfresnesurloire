@@ -1,0 +1,18 @@
+[Sun Mar 13 16:15:27.121412 2022] [mpm_event:notice] [pid 8710:tid 4711271936] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Mar 13 16:15:27.122541 2022] [core:notice] [pid 8710:tid 4711271936] AH00094: Command line: '/Users/thierrycouilleault/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/thierrycouilleault/Library/Application Support/Local/run/H54GDE1eE/conf/apache/apache2.conf'
+[Sun Mar 13 17:10:13.833173 2022] [mpm_event:notice] [pid 8710:tid 4711271936] AH00491: caught SIGTERM, shutting down
+[Thu Apr 21 17:21:55.189341 2022] [mpm_event:notice] [pid 1615:tid 4661542400] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Apr 21 17:21:55.191475 2022] [core:notice] [pid 1615:tid 4661542400] AH00094: Command line: '/Users/thierrycouilleault/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/thierrycouilleault/Library/Application Support/Local/run/H54GDE1eE/conf/apache/apache2.conf'
+[Thu Apr 21 17:57:22.843381 2022] [mpm_event:notice] [pid 1615:tid 4661542400] AH00491: caught SIGTERM, shutting down
+[Thu Apr 28 14:44:39.188398 2022] [mpm_event:notice] [pid 9972:tid 4665916928] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Apr 28 14:44:39.190749 2022] [core:notice] [pid 9972:tid 4665916928] AH00094: Command line: '/Users/thierrycouilleault/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/thierrycouilleault/Library/Application Support/Local/run/H54GDE1eE/conf/apache/apache2.conf'
+[Thu Apr 28 14:45:58.326275 2022] [mpm_event:notice] [pid 9972:tid 4665916928] AH00491: caught SIGTERM, shutting down
+[Thu Apr 28 14:49:27.513255 2022] [mpm_event:notice] [pid 10309:tid 4561833472] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Apr 28 14:49:27.514579 2022] [core:notice] [pid 10309:tid 4561833472] AH00094: Command line: '/Users/thierrycouilleault/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/thierrycouilleault/Library/Application Support/Local/run/H54GDE1eE/conf/apache/apache2.conf'
+[Thu Apr 28 15:01:08.588304 2022] [mpm_event:notice] [pid 10309:tid 4561833472] AH00491: caught SIGTERM, shutting down
+[Thu Apr 28 15:04:43.299102 2022] [mpm_event:notice] [pid 10807:tid 4526648832] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Apr 28 15:04:43.299604 2022] [core:notice] [pid 10807:tid 4526648832] AH00094: Command line: '/Users/thierrycouilleault/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/thierrycouilleault/Library/Application Support/Local/run/H54GDE1eE/conf/apache/apache2.conf'
+[Thu Apr 28 15:32:36.798991 2022] [mpm_event:notice] [pid 10807:tid 4526648832] AH00491: caught SIGTERM, shutting down
+[Thu Apr 28 15:35:24.778436 2022] [mpm_event:notice] [pid 11258:tid 4600557056] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Apr 28 15:35:24.780298 2022] [core:notice] [pid 11258:tid 4600557056] AH00094: Command line: '/Users/thierrycouilleault/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/thierrycouilleault/Library/Application Support/Local/run/H54GDE1eE/conf/apache/apache2.conf'
+[Thu Apr 28 15:50:05.989050 2022] [mpm_event:notice] [pid 11258:tid 4600557056] AH00491: caught SIGTERM, shutting down
