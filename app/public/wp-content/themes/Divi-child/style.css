@@ -5,3 +5,6 @@ Description: Divi Child Theme
 Author: Thierry Couilleault - Let Us Do It
 Author URI: https://site-web-pro.let-us-do-it.fr/
 */
+h1.et_pb_module_header{
+    color:blue !important;
+}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="PhpProjectServersManager">
     <servers>
-      <server host="terrainfresnesurloire.local" port="80" id="eb7e808b-1395-444d-909a-ff2f3c03f289" name="Local"></server>
+      <server host="terrainfresnesurloire.le-coin-des-bulles.fr" port="80" id="ca1025cf-f19d-4434-b0e7-978cc4d2c595" name="Local"></server>
     </servers>
   </component>
 </project>
