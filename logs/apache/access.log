@@ -2369,3 +2369,10 @@
 127.0.0.1 - - [29/Apr/2022:17:43:04 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 254
 127.0.0.1 - - [29/Apr/2022:17:43:26 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 91
 127.0.0.1 - - [29/Apr/2022:17:44:04 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 118118
+127.0.0.1 - - [29/Apr/2022:17:46:04 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 368
+127.0.0.1 - - [29/Apr/2022:17:48:04 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 368
+127.0.0.1 - - [29/Apr/2022:17:48:35 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 91
+127.0.0.1 - - [29/Apr/2022:17:48:52 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 91
+127.0.0.1 - - [29/Apr/2022:17:49:04 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 118131
+127.0.0.1 - - [29/Apr/2022:17:51:04 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 368
+127.0.0.1 - - [29/Apr/2022:17:53:04 +0200] "POST /wp-admin/admin-ajax.php HTTP/1.0" 200 368
